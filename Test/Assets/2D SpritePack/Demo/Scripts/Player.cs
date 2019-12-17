@@ -15,7 +15,10 @@ public class Player : MonoBehaviour {
 	public LayerMask whatIsGround;
 	public GameObject PanelLose;
 	public GameObject PanelWin;
-	void Start ()
+
+    public bool grounded { get; internal set; }
+
+    void Start ()
 	{
 		myrigidbody = GetComponent<Rigidbody2D> ();
 	}

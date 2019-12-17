@@ -38,30 +38,6 @@ TextureImporter:
   - first:
       213: 21300022
     second: Pixel_Flamer_Attack_11
-  - first:
-      213: 21300024
-    second: Pixel_Flamer_Attack_12
-  - first:
-      213: 21300026
-    second: Pixel_Flamer_Attack_13
-  - first:
-      213: 21300028
-    second: Pixel_Flamer_Attack_14
-  - first:
-      213: 21300030
-    second: Pixel_Flamer_Attack_15
-  - first:
-      213: 21300032
-    second: Pixel_Flamer_Attack_16
-  - first:
-      213: 21300034
-    second: Pixel_Flamer_Attack_17
-  - first:
-      213: 21300036
-    second: Pixel_Flamer_Attack_18
-  - first:
-      213: 21300038
-    second: Pixel_Flamer_Attack_19
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -129,7 +105,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -141,7 +117,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
